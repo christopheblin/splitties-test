@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="library_name">Name</string>
+    <string name="author">Author</string>
+    <string name="license">License</string>
+    <string name="actionBtn">ACTION</string>
+</resources>
